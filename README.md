@@ -1,5 +1,6 @@
 # Quality Intelligence v2
 
+https://manufacturing-quality-intelligence-jl5hnhssgzhttwgzkanvxg.streamlit.app/
 Modern Streamlit NCR / CAPA / Scrap Root-Cause Analysis for manufacturing demos.
 
 ## Deploy on Streamlit Community Cloud
